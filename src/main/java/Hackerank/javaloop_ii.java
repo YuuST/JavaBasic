@@ -23,7 +23,7 @@ public class javaloop_ii {
                 sum = 0;
                 int ss = 0;
             }
-            System.out.println("");
+            System.out.println();
         }
         in.close();
     }
