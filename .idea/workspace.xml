@@ -5,58 +5,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="452e9826-3a4a-4921-bd3f-dd99b02b5929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hackerank/datatypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hackerank/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hackerank/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hackerank/javaformat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hackerank/javaformat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hackerank/javaloop_i.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hackerank/javaloop_i.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hackerank/javaloop_i_imp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hackerank/javaloop_i_imp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hackerank/javaloop_ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hackerank/javaloop_ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hackerank/stdin_stdout_i.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hackerank/stdin_stdout_i.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hackerank/stdin_stdout_i_imp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hackerank/stdin_stdout_i_imp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hackerank/stdin_stdout_ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hackerank/stdin_stdout_ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Basic" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2R2mvMwqtoEkOv400htqUpMglpC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-  </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Maven",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.datatypes">
+    <configuration name="datatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hackerank.datatypes" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hackerank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaloop_ii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hackerank.javaloop_ii" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hackerank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="stdin_stdout_ii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hackerank.stdin_stdout_ii" />
       <module name="JavaBasic" />
@@ -72,6 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.datatypes" />
+        <item itemvalue="Application.javaloop_ii" />
         <item itemvalue="Application.stdin_stdout_ii" />
       </list>
     </recent_temporary>
